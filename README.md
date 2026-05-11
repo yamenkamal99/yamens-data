@@ -1,4 +1,4 @@
-# Barber Shop Queue System 💈
+# Barber Shop Queue System 
 
 A simple C++ program that simulates a barber shop queue using a Linked List and Queue data structure.
 
